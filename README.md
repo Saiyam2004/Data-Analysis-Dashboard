@@ -28,4 +28,13 @@ The Mohan Store wants to create an annual sales report for 2022. So that, the ow
 <img width="1859" height="659" alt="Mohan Store Annual Report 2022" src="https://github.com/user-attachments/assets/2b397779-803f-48e5-b9b4-893dd21a26f3" />
 
 ## Project Insight
+- Kurtas and Sets are the highest revenue-generating product categories.
+- Women customers are more likely to buy products compared to men (~64%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (20-50 yrs) is max contributing and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 92% of the products delivered
+
+## Final Conclusion:
+The dashboard reveals that Mohan Store’s strongest opportunities for growth lie in focusing on women in the adult age group in Maharashtra , Karnataka , Uttar Pradesh prioritizing Kurtas and Sets as core revenue drivers, and doubling down on high-performing channels like Myntra and Amazon.
 
