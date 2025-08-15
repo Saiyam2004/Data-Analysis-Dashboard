@@ -1,2 +1,7 @@
-# Data-Analysis-Dashboard
-I make a Dashboard on Mohan Store Annual Report 2022 in Excel . In This I Learned many Thing in Excel including Deal With Problem Statement , Data Cleaning , Data Processing , Data Analysis , Making Insights
+# Mohan-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The Mohan Store wants to create an annual sales report for 2022. So that, the owner of the Mohan store can understand their customers and grow more sales in 2023 & 2024.
+
+## Dataset used
+- <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard/blob/main/Mohan%20Store%20Data%20Analysis.xlsx">Dataset</a>
+
